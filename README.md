@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KiranR-max
-- 👀 I’m interested in ...
+- 👀 I’m interested in WEB 3.0 concepts
 - 🌱 I’m currently learning WEB3.0
-- 💞️ I’m looking to collaborate on Web Dev
+- 💞️ I’m looking to collaborate on Web Dev.
 - 📫 How to reach me ...
 
 <!---
