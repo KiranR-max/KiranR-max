@@ -44,4 +44,4 @@ interested_in:
  </p>
 
 ## 
-[![Kiran's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KiranR-max&theme=tokyo-night)](https://github.com/Kiran-KumarR/github-readme-activity-graph)
+[![Kiran's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KiranR-max&theme=tokyo-night)](https://github.com/KiranR-max/github-readme-activity-graph)
