@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Kiran!! :wave:	 </h1>
-<h3 align="center">Software Engineer - l   @ Kaplan</h3>
+<h3 align="center">Software Engineer @ Kaplan</h3>
 
 #
   
